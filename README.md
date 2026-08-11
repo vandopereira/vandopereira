@@ -16,7 +16,10 @@ The product source repositories are private. The linked public repositories cont
 - **[PDF to Image](https://github.com/vandopereira/pdftoimage)** — cross-platform PDF-to-image desktop app built with Tauri and TypeScript.
 - **[PDF Compressor for macOS](https://github.com/vandopereira/pdf-compressor-macos)** — native SwiftUI batch PDF compressor.
 
+## Background
+
+Professional musician, producer and music director since 2001. Transitioned into software development through engineering studies and self-directed building.
+
 ## Technologies
 
 TypeScript · React · Rust · Tauri · Java · Spring · React Native · SQL · SwiftUI
-
